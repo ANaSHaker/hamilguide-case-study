@@ -1,0 +1,17 @@
+{
+  "name": "hamilguide-case-study",
+  "description": "Case study: HamilGuide, a Flutter pregnancy tracker with 100K+ installs. Gregorian/Hijri due-date calculator, kick counter, health logs, baby tools, 5 languages. A pregnancy companion for Arabic-speaking mothers.",
+  "topics": [
+    "flutter",
+    "case-study",
+    "pregnancy-tracker",
+    "health",
+    "bloc",
+    "firebase",
+    "hijri-calendar",
+    "localization",
+    "android",
+    "ios"
+  ],
+  "homepage": "https://play.google.com/store/apps/details?id=com.dalil.elhwamelss"
+}

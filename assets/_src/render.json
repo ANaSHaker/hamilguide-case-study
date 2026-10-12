@@ -1,0 +1,91 @@
+{
+ "outDir": "..",
+ "brand": {
+  "name": "HamilGuide",
+  "tagline": "A pregnancy companion trusted by 100K+ mothers — week-by-week guide, health trackers and baby tools.",
+  "accent": "#EC4899",
+  "accent2": "#8B5CF6",
+  "logo": "D:/shaker-github/_store/com.dalil.elhwamelss/icon.png"
+ },
+ "images": [
+  {
+   "type": "banner",
+   "file": "banner.png",
+   "kicker": "Case Study · Health & pregnancy",
+   "screens": [
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_02.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_05.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_06.png"
+   ],
+   "devices": [
+    "card",
+    "card",
+    "card"
+   ],
+   "subtitle": "Pregnancy tracker for Arabic-speaking mothers — 100K+ installs on Google Play.",
+   "chips": [
+    "Flutter",
+    "Bloc / Cubit",
+    "Firebase",
+    "5 languages"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-play.png",
+   "title": "Current release — Google Play screenshots",
+   "device": "card",
+   "cardRatio": 1.78,
+   "cols": 4,
+   "screens": [
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_05.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_02.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_04.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_06.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_01.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_07.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_08.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_03.png"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-ios.png",
+   "title": "iOS build — calculator, follow-up tools, weeks, baby names",
+   "device": "iphone",
+   "cols": 6,
+   "screens": [
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_01.png",
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_02.png",
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_03.png",
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_06.png",
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_05.png",
+    "D:/shaker-github/_store/ios_id_6443834135/ios_pad_07.png"
+   ]
+  },
+  {
+   "type": "feature",
+   "file": "feature-tracking.png",
+   "kicker": "SIGNATURE FEATURE",
+   "title": "Pregnancy calculator + daily trackers",
+   "points": [
+    "Due date from the last period (Gregorian or Hijri)",
+    "Current week, days left and trimester progress",
+    "Kick counter with sessions and averages",
+    "Blood pressure, sugar and weight logs",
+    "Reminders for doctor visits and vitamins"
+   ],
+   "screens": [
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_02.png",
+    "D:/shaker-github/_store/com.dalil.elhwamelss/shot_06.png"
+   ],
+   "devices": [
+    "card",
+    "card"
+   ],
+   "css": ".card{--w:320px!important}.title{font-size:54px!important}",
+   "width": 1640,
+   "height": 820
+  }
+ ]
+}
